@@ -3,7 +3,7 @@ const Score = props => {
 
   return (
     <div className="Score">
-      <h1>Puntaje: {score}</h1>
+      <h1>🔴Puntaje🔴: {score}</h1>
     </div>
   );
 };

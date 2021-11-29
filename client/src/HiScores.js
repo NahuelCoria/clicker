@@ -8,7 +8,7 @@ const HiScores = props => {
 
   return (
     <div className="HiScores">
-      <h1>HiScores</h1>
+      <h1>🚀Mejores Clickers🚀</h1>
       <ul>
         {scores.map(score => <li key={score._id}>{score.player} {score.score}</li>)}
       </ul>

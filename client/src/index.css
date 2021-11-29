@@ -1,6 +1,7 @@
 body {
+  background:lightgrey;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: -apple-system, BlinkMacSystemFont, 'TimesNewRoman', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -8,29 +9,36 @@ body {
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'TimesNewRoman',
     monospace;
 }
 
 .App {
-  border: 3px solid blue;
+  border: 5px solid black;
+  padding: 2px solid black;
+
 }
 
 .Timer {
-  border: 3px solid red;
+  border: 3px solid gold;
+  color: gold
 }
 
 .Play {
-  border: 3px solid green;
+  border: 3px solid gold;
   text-align: center;
+  color: gold;
+  background: black;
 }
 
 .Score {
-  border: 3px solid violet;
+  border: 5px solid black;
+  background: gold;
 }
 
 .HiScores {
-  border: 3px solid pink;
+  border: 5px solid black;
+  background: gold;
 }
 
 .Top {
@@ -39,11 +47,12 @@ code {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  background: black;
 }
 
 .PlayArea {
   margin: 10px;
   width: 300px;
   height: 200px;
-  background: gray;
+  background: gold;
 }
