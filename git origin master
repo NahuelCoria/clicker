@@ -1,0 +1,53 @@
+[33mcommit fac338be7ae6823ea7c1ca145f0937572a216bd1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Nahuel Coria <corian983@gmail.com>
+Date:   Mon Nov 29 18:25:14 2021 -0300
+
+    cambios del css
+
+[33mcommit 123e32b7b9e9740d41833bdc365a446e4b04d049[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Mon Nov 15 22:32:02 2021 -0300
+
+    ahora si, ultimo commit para el deploy
+
+[33mcommit 22ecb08fa38f5cea9e217cde4bab4ba31039056b[m
+Author: alumno <demo150305@gmail.com>
+Date:   Mon Nov 15 22:21:17 2021 -0300
+
+    hasta aca llego yo, sigan uds
+
+[33mcommit 4ad4ed3bea2109015b3a7a0700629ba46e8c8695[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Tue Nov 9 21:01:24 2021 -0300
+
+    agrega backend para hiscores y puntaje
+
+[33mcommit 628b4a295de3587c497eda2b44e9b85f208e9e06[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Mon Nov 1 22:11:11 2021 -0300
+
+    mueve todo el estado a App.js
+
+[33mcommit 4506df0bad3f05c7fe5a8727cf1418b7e5267afc[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Tue Oct 26 21:03:38 2021 -0300
+
+    lunes 25/10
+
+[33mcommit 564a9a66f12843265a13bc4747a231bcaad32c23[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Mon Oct 25 21:00:46 2021 -0300
+
+    para el 25/10
+
+[33mcommit 0cfe868a0ac1d73327283e5f29af275618070624[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Tue Oct 12 19:42:50 2021 -0300
+
+    deploy para Heroku
+
+[33mcommit 964f1aa489ee09e05dc2974c6486b23c8cdda7f8[m
+Author: Santiago Trini <santiagotrini@gmail.com>
+Date:   Mon Oct 4 21:02:44 2021 -0300
+
+    initial commit

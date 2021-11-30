@@ -2,7 +2,7 @@ body {
   background:lightgrey;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'TimesNewRoman', 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 'cursive'
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -14,45 +14,66 @@ code {
 }
 
 .App {
-  border: 5px solid black;
-  padding: 2px solid black;
-
+  height: 900px;
+  width: 1600px;
+  background-image: url(https://www.finanzasnews.com/wp-content/uploads/Prediccion-del-precio-de-Dogecoin-%C2%BFCerca-de-1-para.jpeg);
 }
 
 .Timer {
-  border: 3px solid gold;
-  color: gold
+  position: relative;
+  right:260px;
+  border: 3px transparent lightblue;
+  color: white;
+  background:  blue;
+  box-shadow:3px 3px  lightblue;
+  opacity: 90%;
+
 }
 
 .Play {
-  border: 3px solid gold;
+  position: relative;
+  background: blue;
+  right: 647px;
+  box-shadow:3px 3px  lightblue;
   text-align: center;
-  color: gold;
-  background: black;
+  color: white;
 }
 
 .Score {
-  border: 5px solid black;
-  background: gold;
+  position: relative;
+  background:  blue;
+  left: 500px;
+  bottom: 50%;
+  height: 200px;
+  width: 340px;
+  color: white;
+  font-style: 'cursive';
+  color: white;
+  box-shadow:3px 3px  lightblue;
 }
 
 .HiScores {
-  border: 5px solid black;
-  background: gold;
+  position: relative;
+  background:  blue;
+  left: 500px;
+  bottom: 50%;
+  height: 200px;
+  width: 340px;
+  color: white;
+  box-shadow:3px 3px  lightblue;
 }
 
 .Top {
-  border: 2px solid black;
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  background: black;
 }
 
 .PlayArea {
-  margin: 10px;
-  width: 300px;
-  height: 200px;
-  background: gold;
+  position: sticky;
+  left: 2px;
+  width: 340px;
+  height: 340px;
+  background-image: url(https://c.tenor.com/TbLpG9NCzjkAAAAC/bonk.gif);
 }
